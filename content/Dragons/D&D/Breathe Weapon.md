@@ -1,0 +1,2 @@
+
+You can use your [action](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_20) to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.You can use your [action](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_20) to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.

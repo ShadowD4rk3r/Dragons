@@ -1,0 +1,1 @@
+**a direct ancestor, a biological forefather, or the foundational originator of an idea, invention, or species.** 

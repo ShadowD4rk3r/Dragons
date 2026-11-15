@@ -1,0 +1,2 @@
+
+Chromatic dragons were a type of dragon distinguished typically by a solid, non-reflective coloring of their scales. They were generally evil, greedy, and predatory, and usually worshipped [[Tiamat]], whom they regarded as their queen. 
