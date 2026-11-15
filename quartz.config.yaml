@@ -45,7 +45,7 @@ configuration:
     markdownLinkResolution: shortest
   contentIndex:
     enableSiteMap: true
-    enableRSS: faLse
+    enableRSS: false
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
