@@ -1,5 +1,0 @@
----
-title: Dragons
-aliases:
-  - /index
----
