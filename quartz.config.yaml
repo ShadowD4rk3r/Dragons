@@ -2,7 +2,7 @@
 configuration:
   pageTitle: The Draconomicon but Better
   pageTitleSuffix: "Draconics"
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
